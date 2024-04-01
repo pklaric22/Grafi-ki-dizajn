@@ -1,8 +1,8 @@
-# Grafički dizajn
+# GraphicDesign
 ## Opis
-U ovom repozirotiju mogu se pronaći neki od mojih radova što za klijenta što za osobnu vježbu i napredak
+In this repository you can find some of my works, both for the client and for personal practice and progress
 
-## Korištene tehnologije
+## Technologies used
 * Adobe Premiere Pro
 * Adobe Photoshop
 * Adobe Ilustrator
